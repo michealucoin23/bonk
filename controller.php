@@ -4,5 +4,7 @@ test();
 public test() {
   
 }
-
+public static run(){
+  
+}
 ?>
